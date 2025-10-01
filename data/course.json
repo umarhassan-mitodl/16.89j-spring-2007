@@ -31,6 +31,7 @@
     "website": "16-89j-space-systems-engineering-spring-2007"
   },
   "course_title": "Space Systems Engineering",
+  "hide_download": true,
   "course_description": "In 16.89 / ESD.352 the students will first be asked to understand the key challenges in designing ground and space telescopes, the stakeholder structure and value flows, and the particular pros and cons of the proposed project. The first half of the class will concentrate on performing a thorough architectural analysis of the key astrophysical, engineering, human, budgetary and broader policy issues that are involved in this decision. This will require the students to carry out a qualitative and quantitative conceptual study during the first half of the semester and recommend a small set of promising architectures for further study at the Preliminary Design Review (PDR).\n\nBoth lunar surface telescopes as well as orbital locations should be considered.\n\nThe second half of the class will then pick 1-2 of the top-rated architectures for a lunar telescope facility and develop the concept in more detail and present the detailed design at the Critical Design Review (CDR). This should not only sketch out the science program, telescope architecture and design, but also the stakeholder relationships, a rough estimate of budget and timeline, and also clarify the role that human explorers could or should play during both deployment and servicing/operations of such a facility (if any).\n",
   "department_numbers": [
     "16",
@@ -42,6 +43,7 @@
     "content": "9136249e-26df-7962-1171-ddd1b58405a3",
     "website": "16-89j-space-systems-engineering-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Projects with Examples",
     "Design Assignments",

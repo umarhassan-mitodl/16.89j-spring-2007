@@ -5,6 +5,8 @@ description: Assignment to assemble key information about an existing design of 
 file: /courses/16-89j-space-systems-engineering-spring-2007/e658c0e1e41308a573a74f079b79dc23_assignment_1.pdf
 file_size: 103072
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

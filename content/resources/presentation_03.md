@@ -10,6 +10,8 @@ description: 'Example of student work: project presentation on rapid modeling of
 file: /courses/16-89j-space-systems-engineering-spring-2007/b2f21b8e52138407c8ad358f308b7b4c_presentation_03.pdf
 file_size: 1630323
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

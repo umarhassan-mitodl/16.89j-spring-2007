@@ -5,6 +5,8 @@ description: Assignment to prepare a 30-50 page document and 25-30 slide present
 file: /courses/16-89j-space-systems-engineering-spring-2007/c2780e6c03a4f1163bd326aa6bac6de1_assignment_3.pdf
 file_size: 65200
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -12,6 +12,8 @@ description: 'Example of student work: project presentation on a swarm-based spa
 file: /courses/16-89j-space-systems-engineering-spring-2007/11dd7df22104e427d9a157afdf873cc7_presentation_01.pdf
 file_size: 871501
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

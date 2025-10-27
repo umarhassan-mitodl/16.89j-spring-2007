@@ -12,8 +12,6 @@ description: 'Example of student work: final design report on a swarm-based spac
 file: /courses/16-89j-space-systems-engineering-spring-2007/8cd1b68fbe3fb4bbfc57ef7a709449a5_report_01.pdf
 file_size: 2019196
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

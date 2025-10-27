@@ -15,8 +15,6 @@ description: 'Example of student work: final design report on an extensible plan
 file: /courses/16-89j-space-systems-engineering-spring-2007/95d926e51c8a1182819fecd66aec5dfb_report_06.pdf
 file_size: 6779818
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

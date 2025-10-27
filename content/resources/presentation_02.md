@@ -6,8 +6,6 @@ description: 'Example of student work: preliminary design review for a conceptua
 file: /courses/16-89j-space-systems-engineering-spring-2007/7254a48ad79477196c2ada861f7a4997_presentation_02.pdf
 file_size: 4340037
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -10,8 +10,6 @@ description: 'Example of student work: Presentation on project to establish an e
 file: /courses/16-89j-space-systems-engineering-spring-2007/005f3a13f6ffaffaef72bbfdf7e62f79_presentation_00.pdf
 file_size: 3797040
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

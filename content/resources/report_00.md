@@ -10,8 +10,6 @@ description: 'Example of student work: final design report on project to establi
 file: /courses/16-89j-space-systems-engineering-spring-2007/3b763b61f12d1387cc1ad7a7c1da2b39_report_00.pdf
 file_size: 2342969
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -9,8 +9,6 @@ description: 'Assignment to map out the key relationships between angular resolu
 file: /courses/16-89j-space-systems-engineering-spring-2007/0e58d5de69222788d3e5ca011fc87339_assignment_2.pdf
 file_size: 93284
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

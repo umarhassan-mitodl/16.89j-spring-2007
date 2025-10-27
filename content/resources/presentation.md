@@ -11,8 +11,6 @@ description: 'Example of student work: project presentation on a lunar telescope
 file: /courses/16-89j-space-systems-engineering-spring-2007/399736dc4d91c7cd8f97b6a4c9a9f52d_presentation.pdf
 file_size: 1756480
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
